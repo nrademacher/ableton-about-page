@@ -2,3 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: FuturaPT;
+    font-weight: 400;
+    src: url("/FuturaPTBook.otf") format("opentype");
+}
+
+@font-face {
+    font-family: FuturaPT;
+    font-weight: 700;
+    src: url("/FuturaPTMedium.otf") format("opentype");
+}
+
+body {
+  font-family: FuturaPT;
+}
+
+
