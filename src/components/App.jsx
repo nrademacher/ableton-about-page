@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => (
-  <h1 className="grid place-items-center min-h-screen text-8xl font-light text-indigo-800">
+  <h1 className="text-brand-blue grid place-items-center min-h-screen text-8xl font-light">
     Hello, world.
   </h1>
 );
