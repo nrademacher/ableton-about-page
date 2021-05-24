@@ -1,9 +1,6 @@
 import React from 'react';
+import NavbarPrimary from './NavbarPrimary';
 
-const App = () => (
-  <h1 className="text-brand-blue grid place-items-center min-h-screen text-8xl">
-    Hello, world.
-  </h1>
-);
+const App = () => <NavbarPrimary />;
 
 export default App;

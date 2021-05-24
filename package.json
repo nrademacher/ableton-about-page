@@ -21,6 +21,7 @@
   "devDependencies": {
     "@vitejs/plugin-react-refresh": "latest",
     "postcss": "latest",
+    "tailwindcss-question-mark": "^0.1.0",
     "vite": "latest"
   },
   "dependencies": {
