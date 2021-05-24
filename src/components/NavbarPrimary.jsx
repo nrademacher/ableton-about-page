@@ -2,7 +2,7 @@ import React from 'react';
 import Logo from './Logo';
 
 const NavbarPrimary = () => (
-  <nav className="flex justify-between content-center items-center py-5 px-10 mx-auto text-xl font-bold border-b-2 border-gray-100">
+  <nav className="flex col-span-full justify-between content-center items-center py-5 px-10 w-full text-xl font-bold border-b-2 border-gray-100">
     <ul className="flex content-center items-center space-x-11 w-1/2">
       <li>
         <Logo className="w-16" />

@@ -20,6 +20,9 @@ module.exports = {
         'brand-lightblue': '#b1c5ff',
         'brand-blue': '#0000ff',
       },
+      backgroundImage: (theme) => ({
+        'header-hero': "url('/img/header.webp')",
+      }),
     },
   },
   variants: {
