@@ -20,7 +20,7 @@ const AboutIntro = () => {
           Ableton
         </h1>
       </section>
-      <section className="grid col-start-2 md:col-start-4 col-end-12 md:col-end-10 row-start-4 gap-5 place-content-center py-8 md:py-40">
+      <section className="grid col-start-2 md:col-start-4 col-end-12 md:col-end-10 row-start-4 gap-4 place-content-center py-8 md:py-[8rem]">
         <h2 className="text-xl md:text-3xl font-bold leading-[42px]">
           We make <span className="text-brand-blue">Live</span>,{' '}
           <span className="text-brand-blue">Push</span> and{' '}

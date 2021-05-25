@@ -4,6 +4,7 @@ import NavbarPrimary from './NavbarPrimary';
 import NavbarSecondary from './NavbarSecondary';
 import AboutIntro from './AboutIntro';
 import CollageOne from './CollageOne';
+import AboutMain from './AboutMain';
 
 const App = () => (
   <Page>
@@ -11,6 +12,7 @@ const App = () => (
     <NavbarSecondary />
     <AboutIntro />
     <CollageOne />
+    <AboutMain />
   </Page>
 );
 
