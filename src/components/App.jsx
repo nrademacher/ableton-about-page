@@ -4,8 +4,9 @@ import NavbarPrimary from './NavbarPrimary';
 import NavbarSecondary from './NavbarSecondary';
 import AboutIntro from './AboutIntro';
 import CollageOne from './CollageOne';
-import AboutMain from './AboutMain';
+import AboutMainOne from './AboutMainOne';
 import CollageTwo from './CollageTwo';
+import AboutMainTwo from './AboutMainTwo';
 
 const App = () => (
   <Page>
@@ -13,8 +14,9 @@ const App = () => (
     <NavbarSecondary />
     <AboutIntro />
     <CollageOne />
-    <AboutMain />
+    <AboutMainOne />
     <CollageTwo />
+    <AboutMainTwo />
   </Page>
 );
 

@@ -7,7 +7,7 @@ const AboutMainOne = () => (
         Making music isn’t easy. It takes time, effort, and learning. But when
         you’re in the flow, it’s incredibly rewarding.
       </h2>
-      <p className="text-base md:text-xl leading-[30px]">
+      <p className="text-btext-base md:text-xl leading-[30px]">
         We feel the same way about making Ableton products. The driving force
         behind Ableton is our passion for what we make, and the people we make
         it for.
@@ -29,7 +29,7 @@ const AboutMainOne = () => (
         We are more than 350 people from 30 different countries divided between
         our headquarters in Berlin and our offices in Los Angeles and Tokyo.
       </h2>
-      <p className="text-base md:text-xl leading-[30px]">
+      <p className="text-btext-base md:text-xl leading-[30px]">
         Most of us are active musicians, producers, and DJs, and many of us use
         Live and Push every day. We come from a wide range of cultural and
         professional backgrounds. Some of us have PhDs, some are self-taught,
