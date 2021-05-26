@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutMainTwo = () => (
   <>
-    <section className="grid col-start-2 col-end-12 place-content-center py-8 row-start-9 gap-[4rem] md:gap-[8rem] md:col-start-4 md:col-end-10 md:py-[8rem]">
+    <section className="grid col-start-2 col-end-12 place-content-center py-8 gap-[4rem] md:gap-[8rem] md:col-start-4 md:col-end-10 md:py-[8rem]">
       <article className="grid place-items-center gap-5">
         <h2 className="text-xl font-bold md:text-3xl leading-[42px]">
           We believe it takes focus to create truly outstanding instruments. We
@@ -19,11 +19,11 @@ const AboutMainTwo = () => (
       </article>
     </section>
     <img
-      className="row-start-10 col-start-2 col-end-12"
-      src="../../public/img/poster-meet-the-makers.webp"
+      className="col-start-2 col-end-12"
+      src="/img/poster-meet-the-makers.webp"
       alt="meet the makers poster"
     />
-    <section className="grid col-start-2 col-end-12 place-content-center py-8 row-start-11 gap-[4rem] md:gap-[8rem] md:col-start-4 md:col-end-10 md:py-[8rem]">
+    <section className="grid col-start-2 col-end-12 place-content-center py-8 gap-[4rem] md:gap-[8rem] md:col-start-4 md:col-end-10 md:py-[8rem]">
       <article className="grid place-items-center gap-5">
         <h2 className="text-xl font-bold md:text-3xl leading-[42px]">
           We’re passionate about what we do, but we’re equally passionate about

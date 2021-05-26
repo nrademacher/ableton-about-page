@@ -1,7 +1,7 @@
 import React from 'react';
 
 const AboutMainOne = () => (
-  <section className="grid col-start-2 col-end-12 row-start-6 gap-[4rem] md:gap-[8rem] place-content-center py-8 md:col-start-4 md:col-end-10 md:py-[8rem]">
+  <section className="grid col-start-2 col-end-12 gap-[4rem] md:gap-[8rem] place-content-center py-8 md:col-start-4 md:col-end-10 md:py-[8rem]">
     <article className="grid place-items-center gap-5">
       <h2 className="text-xl font-bold md:text-3xl leading-[42px]">
         Making music isn’t easy. It takes time, effort, and learning. But when

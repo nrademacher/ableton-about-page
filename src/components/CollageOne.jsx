@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CollageOne = () => (
-  <section className="grid grid-cols-12 col-span-full grid-rows-6 row-start-5">
+  <section className="grid grid-cols-12 col-span-full grid-rows-6">
     <div className="grid grid-cols-7 col-start-6 col-end-13 row-span-full bg-brand-yellow">
       <img
         className="col-start-3 col-end-7 row-start-2"
