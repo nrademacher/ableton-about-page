@@ -29,13 +29,13 @@ const Footer = () => (
         <article className="md:text-xl md:row-start-1 md:col-start-1">
           <ul>
             <li>
-              <a href="#">Register Live or Push</a>
+              <a href="#">Register Live or Push &rsaquo;</a>
             </li>
             <li>
-              <a href="#">About Ableton</a>
+              <a href="#">About Ableton &rsaquo;</a>
             </li>
             <li>
-              <a href="#">Jobs</a>
+              <a href="#">Jobs &rsaquo;</a>
             </li>
           </ul>
           <ul className="flex">
@@ -142,13 +142,13 @@ const Footer = () => (
           <h3 className="font-bold">Education</h3>
           <ul>
             <li>
-              <a href="#">Offers for students and teachers</a>
+              <a href="#">Offers for students and teachers &rsaquo;</a>
             </li>
             <li>
-              <a href="#">Ableton for the Classroom</a>
+              <a href="#">Ableton for the Classroom &rsaquo;</a>
             </li>
             <li>
-              <a href="#">Ableton for Colleges and Universities</a>
+              <a href="#">Ableton for Colleges and Universities &rsaquo;</a>
             </li>
           </ul>
         </article>
@@ -156,13 +156,13 @@ const Footer = () => (
           <h3 className="font-bold">Community</h3>
           <ul>
             <li>
-              <a href="#">Find Ableton User Groups</a>
+              <a href="#">Find Ableton User Groups &rsaquo;</a>
             </li>
             <li>
-              <a href="#">Find Certified Training</a>
+              <a href="#">Find Certified Training &rsaquo;</a>
             </li>
             <li>
-              <a href="#">Become a Certified Trainer</a>
+              <a href="#">Become a Certified Trainer &rsaquo;</a>
             </li>
           </ul>
         </article>
@@ -170,10 +170,10 @@ const Footer = () => (
           <h3 className="font-bold">Distributors</h3>
           <ul>
             <li>
-              <a href="#">Find Distributors</a>
+              <a href="#">Find Distributors &rsaquo;</a>
             </li>
             <li>
-              <a href="#">Try Push in-store</a>
+              <a href="#">Try Push in-store &rsaquo;</a>
             </li>
           </ul>
         </article>

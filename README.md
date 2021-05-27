@@ -1,11 +1,8 @@
-## Webdev Starter 🚀
+## Ableton About Page
 
-This is a light-weight boilerplate for quickstarting a new web development project.
+This is a recreation of [Ableton's about page](https://www.ableton.com/en/about/), built with React (for componentization) and TailwindCSS.
 
-Its aim is to be continuously optimized for speed, simplicity, and ease of use.
+This is mainly a practice for rebuilding the grids (collages and footer) on the page, though using native CSS Grid instead of absolute/relative positioning.
 
-### Current setup
+**Discaimer**: This project is purely self-educational in purpose. I have no affiliation with Ableton or their products whatsoever.
 
-* [Vite](https://github.com/vitejs/vite) as dev server/bundler, 
-* [React](https://github.com/facebook/react) as JS library, 
-* [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) as styling solution

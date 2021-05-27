@@ -31,7 +31,7 @@ const AboutJobs = () => (
           We’re really proud of the work we’ve done so far. But there’s so much
           more to come. If you’d like to be a part of it, please join us.
           <a href="#" className="mt-8 text-[blue]">
-            See latest jobs
+            See latest jobs &rsaquo;
           </a>
         </h2>
       </article>
