@@ -20,13 +20,19 @@ const AboutJobs = () => (
         </p>
       </article>
     </section>
-  <section class="col-start-2 col-end-12 flex mb-[4rem] md:mb-[8rem]">
-      <img src="/img/photo-8.jpg" alt="about jobs poster" className="w-1/2" />
-      <article className="text-3xl leading-[42px] font-bold p-[10%] w-1/2 bg-brand-lightblue grid place-items-center">
-        <h2 className="flex flex-col">
+    <section class="col-start-2 col-end-12 flex flex-col md:flex-row mb-8 md:mb-[8rem]">
+      <img
+        src="/img/photo-8.jpg"
+        alt="about jobs poster"
+        className="w-full md:w-1/2"
+      />
+      <article className="text-3xl leading-[42px] font-bold p-[10%] w-full md:w-1/2 bg-brand-lightblue grid place-items-center">
+        <h2 className="flex flex-col text-xl md:text-3xl">
           We’re really proud of the work we’ve done so far. But there’s so much
           more to come. If you’d like to be a part of it, please join us.
-        <a href="#" className="mt-8 text-[blue]">See latest jobs</a>
+          <a href="#" className="mt-8 text-[blue]">
+            See latest jobs
+          </a>
         </h2>
       </article>
     </section>

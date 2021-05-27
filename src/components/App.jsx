@@ -9,6 +9,7 @@ import CollageTwo from './CollageTwo';
 import AboutMainTwo from './AboutMainTwo';
 import CollageThree from './CollageThree';
 import AboutJobs from './AboutJobs';
+import Footer from './Footer';
 
 const App = () => (
   <Page>
@@ -21,6 +22,7 @@ const App = () => (
     <AboutMainTwo />
     <CollageThree />
     <AboutJobs />
+    <Footer />
   </Page>
 );
 
