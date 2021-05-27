@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Page from './Page';
 import NavbarPrimary from './NavbarPrimary';
 import NavbarSecondary from './NavbarSecondary';
@@ -11,23 +11,19 @@ import CollageThree from './CollageThree';
 import AboutJobs from './AboutJobs';
 import Footer from './Footer';
 
-const App = () => {
-  const [showMenu, setShowMenu] = useState(false);
-
-  return (
-    <Page>
-      <NavbarPrimary menuIsOpen={showMenu} toggleMenu={() => setShowMenu((prev) => !prev)} />
-      <NavbarSecondary />
-      <AboutIntro />
-      <CollageOne />
-      <AboutMainOne />
-      <CollageTwo />
-      <AboutMainTwo />
-      <CollageThree />
-      <AboutJobs />
-      <Footer />
-    </Page>
-  );
-};
+const App = () => (
+  <Page>
+    <NavbarPrimary />
+    <NavbarSecondary />
+    <AboutIntro />
+    <CollageOne />
+    <AboutMainOne />
+    <CollageTwo />
+    <AboutMainTwo />
+    <CollageThree />
+    <AboutJobs />
+    <Footer />
+  </Page>
+);
 
 export default App;
